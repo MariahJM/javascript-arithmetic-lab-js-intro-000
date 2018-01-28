@@ -14,6 +14,6 @@ function divide(a,b) {
   return a/b
 };
 
-function inc(n) {
+function inc('662') {
   parseInt('n', 10)
 };
