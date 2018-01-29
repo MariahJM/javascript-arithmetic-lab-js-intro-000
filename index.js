@@ -15,5 +15,5 @@ function divide(a,b) {
 };
 
 function inc(n) {
-  parseInt('n', 10)
+  parseInt(n, 10)
 };
